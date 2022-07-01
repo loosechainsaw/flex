@@ -19,6 +19,7 @@ add_executable(tests source/main.cpp
         source/push_back.cpp
         source/push_front.cpp
         source/rename.cpp
+        source/repeat.cpp
         source/replace_front.cpp
         source/second.cpp
         source/size.cpp

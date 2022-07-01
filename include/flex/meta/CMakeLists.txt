@@ -20,6 +20,7 @@ target_sources(flex
         ${CMAKE_CURRENT_LIST_DIR}/push_back.hpp
         ${CMAKE_CURRENT_LIST_DIR}/push_front.hpp
         ${CMAKE_CURRENT_LIST_DIR}/rename.hpp
+        ${CMAKE_CURRENT_LIST_DIR}/repeat.hpp
         ${CMAKE_CURRENT_LIST_DIR}/replace_front.hpp
         ${CMAKE_CURRENT_LIST_DIR}/reverse.hpp
         ${CMAKE_CURRENT_LIST_DIR}/second.hpp
